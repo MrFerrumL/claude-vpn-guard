@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <Adapter>v2RayTun;MantaRay</Adapter>
+  <AutoDetectTunnel>true</AutoDetectTunnel>
+  <GraceSeconds>10</GraceSeconds>
+  <AppId>Claude_pzs8sxrjxfjjc!Claude</AppId>
+</Settings>

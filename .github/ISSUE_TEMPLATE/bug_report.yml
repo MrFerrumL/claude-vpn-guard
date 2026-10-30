@@ -1,0 +1,30 @@
+name: Ошибка / Bug report
+description: Report a problem without sharing VPN credentials.
+body:
+  - type: markdown
+    attributes:
+      value: Не публикуй VPN-подписки, ключи, токены, переписку или полные конфигурации VPN.
+  - type: input
+    id: version
+    attributes:
+      label: Версия утилиты и Windows
+    validations:
+      required: true
+  - type: input
+    id: vpn
+    attributes:
+      label: VPN-клиент, режим и имя сетевого адаптера
+      description: Например, MantaRay, TUN. Без адресов серверов и ключей.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Шаги, ожидаемое и фактическое поведение
+    validations:
+      required: true
+  - type: textarea
+    id: diagnostics
+    attributes:
+      label: Диагностика
+      description: Необязательно. Удали личные данные из журнала перед отправкой.

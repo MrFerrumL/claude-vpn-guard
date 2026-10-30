@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="250" viewBox="0 0 960 250" role="img" aria-labelledby="title desc">
+  <title id="title">Claude VPN Guard</title>
+  <desc id="desc">Windows tray utility. Check the tunnel before launch.</desc>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101b30"/><stop offset="1" stop-color="#192f46"/></linearGradient></defs>
+  <rect width="960" height="250" rx="22" fill="url(#bg)"/>
+  <circle cx="128" cy="123" r="72" fill="#203e50"/>
+  <path d="M128 65 174 82V117C174 149 154 170 128 183 102 170 82 149 82 117V82Z" fill="none" stroke="#68e0c2" stroke-width="6" stroke-linejoin="round"/>
+  <path d="m107 121 15 15 29-33" fill="none" stroke="#68e0c2" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="235" y="94" fill="#68e0c2" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="3">WINDOWS TRAY UTILITY</text>
+  <text x="232" y="145" fill="#f1f5f9" font-family="Segoe UI,Arial,sans-serif" font-size="46" font-weight="700">Claude VPN Guard</text>
+  <text x="235" y="184" fill="#b6c8d8" font-family="Segoe UI,Arial,sans-serif" font-size="20">Check the tunnel before launch.</text>
+</svg>

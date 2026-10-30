@@ -1,0 +1,10 @@
+*.exe
+*.pdb
+*.log
+*.zip
+tests.txt
+diagnostic.txt
+dist/
+test-results/
+.vs/
+*.user
